@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 const key = "36150daea36692d65248e6c1d9a32902";
 const weatherInfo = document.getElementById("weather-info");
 const searchBtn = document.getElementById("search-btn");
@@ -60,4 +58,3 @@ cityInput.addEventListener("keyup", function (event) {
     getWeather();
   }
 });
->>>>>>> Stashed changes
